@@ -1,54 +1,131 @@
-\# 👋 Hi, I'm Kevin Obegi
+# 👋 Welcome to My GitHub Portfolio
 
+# Kevin A. Obegi
 
+**Data Engineer | Business Intelligence Developer | SQL Developer | AI & Automation Enthusiast**
 
-\## Data Engineer | Business Intelligence Developer | SQL Developer
+---
 
+## 🚀 About Me
 
+Hello! I'm Kevin Obegi, a Data Engineer and Business Intelligence professional based in Nairobi, Kenya, with over **7 years of experience** helping organizations transform data into actionable business insights.
 
-Welcome to my GitHub portfolio.
+I specialize in designing SQL Server databases, developing ETL pipelines, building Power BI dashboards, automating workflows with Python, and integrating enterprise systems such as Epicor ERP.
 
+I enjoy solving business problems using data and continuously learning modern data engineering technologies.
 
+---
 
-I have over 7 years of experience designing data solutions, building Power BI dashboards, developing SQL Server databases, automating business processes with Python, and integrating enterprise systems such as Epicor ERP.
+# 🛠 Technical Skills
 
+### Languages
 
+- SQL
+- Python
+- C#
+- DAX
 
-\## Technical Skills
+### Databases
 
+- SQL Server
+- MySQL
 
+### Data Engineering
 
-\- SQL Server
+- ETL Development
+- Data Warehousing
+- Data Modeling
+- Data Cleaning
+- REST API Integration
 
-\- Python
+### Business Intelligence
 
-\- Power BI
+- Power BI
+- Power Query
+- Excel
+- KPI Reporting
+- Dashboard Development
 
-\- ETL Pipelines
+### Tools
 
-\- Data Warehousing
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- Swagger
+- Epicor ERP
+- Microsoft SQL Server Management Studio
 
-\- REST APIs
+---
 
-\- Excel Automation
+# 📂 Portfolio Projects
 
-\- Git \& GitHub
+This repository serves as the central hub for all my projects.
 
-\- Business Intelligence
+## SQL
 
+- SQL Portfolio
+- SQL Interview Questions
+- Stored Procedures
+- Window Functions
+- Query Optimization
 
+## Python
 
-\## Current Goal
+- Automation Scripts
+- ETL Pipelines
+- API Integrations
+- Excel Automation
 
+## Power BI
 
+- Sales Dashboard
+- Finance Dashboard
+- Inventory Dashboard
+- Executive KPI Dashboard
 
-Building enterprise-level Data Engineering projects and contributing to open-source solutions while pursuing remote opportunities.
+## Data Engineering
 
+- Data Warehouse
+- ETL Projects
+- Incremental Loading
+- Data Validation
 
+## AI Projects
 
-\---
+- Prompt Engineering
+- AI Evaluation
+- Data Annotation
+- Automation Tools
 
+---
 
+# 🎯 Current Goal
 
-More projects coming soon 🚀
+To build enterprise-grade data engineering solutions while contributing to innovative remote teams across the world.
 
+---
+
+# 🌱 Currently Learning
+
+- dbt
+- Apache Airflow
+- Azure Data Factory
+- Docker
+- Microsoft Fabric
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **kobegi@kabarak.ac.ke**
+
+💼 LinkedIn: **www.linkedin.com/in/kevin-obegi-693326137**
+
+---
+
+# ⭐ Thanks for Visiting
+
+This portfolio is continuously updated with new projects, dashboards, automation tools, and data engineering solutions.
+
+Stay tuned!
